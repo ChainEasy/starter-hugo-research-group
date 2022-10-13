@@ -2,7 +2,7 @@
 widget: hero
 widget_id: Welcome
 headless: true
-weight: 0
+weight: 1
 title: NoDAO
 subtitle: A DAO for Blockchain Validation and Staking Nodes
 design:
